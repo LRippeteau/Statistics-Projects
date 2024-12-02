@@ -1,0 +1,24 @@
+NBA22-23.csv
+The variables are as follows:
+
+Player : Player's name
+Pos : Position
+Age : Player's age
+Tm : Team
+G : Games played
+GS : Games started
+MP : Minutes played this season
+FG : Field goals made this season
+FGA : Field goal attempts this season
+3P : 3-point field goals made this season
+3PA : 3-point field goal attempts this season
+FT : Free throws made this season
+FTA : Free throw attempts this season
+ORB : Offensive rebounds this season
+DRB : Defensive rebounds this season
+AST : Assists this season
+STL : Steals this season
+BLK : Blocks this season
+TOV : Turnovers this season
+PF : Personal fouls this season
+PTS : Points this season
